@@ -1,0 +1,38 @@
+# CMake (generated / local only)
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+_install_prefix_.txt
+
+# Qt Creator / IDE
+*.user
+*.user.*
+*.autosave
+.qtc_clangd/
+compile_commands.json
+
+# Build trees
+build/
+build-*/
+out/
+Debug/
+Release/
+*.build/
+
+# Compiled / generated
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+moc_*.cpp
+qrc_*.cpp
+ui_*.h
+*.qm
+
+# Qt deployment
+android-build/

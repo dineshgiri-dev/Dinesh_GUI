@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/Jeanuvs-logo.png</file>
+        <file>icons/DRDO.png</file>
+    </qresource>
+</RCC>
